@@ -1,8 +1,8 @@
 # Chat-Interface
-TCP Socket Chat Application Written in Python
+TCP Socket Chat Application Written in Python, v0.0.1
 
 # Description
-Uses the native Python libraries for creating a socket and inputting proper info. 
+Uses the native Python libraries for creating a socket and inputting proper info. In very early development stages meant to be a practice tool for understanding different transfer protocols.
 
 # Installation
 Requires Python v3.14.0+ acquired here ---> https://www.python.org/downloads/
